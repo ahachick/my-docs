@@ -6,7 +6,7 @@
 
 * [Design Principles](introduction/design-principles.md)
 * [Brand Guidelines](introduction/brand-guidelines.md)
-* [How updates work](introduction/how-updates-work.md)
+* [Hoddw updates work](introduction/how-updates-work-new.md)
 * [Accessibility](introduction/accessibility.md)
 
 ## identity
