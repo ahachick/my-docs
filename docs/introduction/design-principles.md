@@ -2,7 +2,7 @@
 
 ### 🤝Trust
 
-Trust the process Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornar[e vel eu leo.](broken-reference)
+Trust the process Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornar[e vel eu leo.](how-updates-work.md)
 
 ### 🛳 Ship&#x20;
 
