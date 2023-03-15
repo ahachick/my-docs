@@ -6,7 +6,7 @@
 
 * [Design Principles](introduction/design-principles.md)
 * [Brand Guidelines](introduction/brand-guidelines.md)
-* [Hoddw updates work](introduction/how-updates-work-new.md)
+* [Hoddw updates work](introduction/how-updates-work-2.md)
 * [Accessibility](introduction/accessibility.md)
 
 ## identity

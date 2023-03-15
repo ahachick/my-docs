@@ -2,7 +2,7 @@
 
 ### 🤝Trust
 
-Trust the process Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornar[e vel eu leo.](how-updates-work-new.md)
+Trust the process Donec id elit non mi porta gravida at eget metus. Nullam quis risus eget urna mollis ornar[e vel eu leo.](how-updates-work-2.md)
 
 ### 🛳 Ship&#x20;
 

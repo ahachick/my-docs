@@ -1,8 +1,8 @@
 ---
-layout: landing
+layout: editorial
 ---
 
-# How updates work
+# Hoddw updates work
 
 {% hint style="info" %}
 **Good to know:** Outlining how updates work will help everyone know how they collaborate with the system, havddding a robust approach to updating your design system is super important – afterall a design system is never complete!
@@ -12,7 +12,7 @@ Here's a few walkthroughs on how our different tools align and work with one ano
 
 <figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>这是个<em>备注</em></p></figcaption></figure>
 
-<figure><img src="https://www.baidu.com/img/PCfb_5bf082d29588c07f842ccde3f97243ea.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="https://images.unsplash.com/photo-1676828596535-1c82f4f57520?crop=entropy&#x26;cs=tinysrgb&#x26;fm=jpg&#x26;ixid=MnwxOTcwMjR8MHwxfHJhbmRvbXx8fHx8fHx8fDE2Nzg4Njk3MDA&#x26;ixlib=rb-4.0.3&#x26;q=80" alt=""><figcaption></figcaption></figure>
 
 
 
